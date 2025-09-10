@@ -1,5 +1,5 @@
 # CALCOLO-NUMERICO
-Collection of assignments and notions of "Calcolo Numerico", a subject for the Bachelor Degree in Computer Science at University of Parma (UniPR)
+Collection of assignments of "Calcolo Numerico", a subject for the Bachelor Degree in Computer Science at University of Parma (UniPR)
 
 ## **Description**
 1. **INTRO-MATLAB (1 - 2)**
