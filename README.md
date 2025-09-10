@@ -2,7 +2,7 @@
 Collection of assignments and notions of "Calcolo Numerico" for the Bachelor Degree in Computer Science at University of Parma (UniPR)
 
 ## **Description**
-1. **INTRO-MATLAB (1 - 2)**
+1. **INTRO-MATLAB (1 - 2)** 
 An introduction into the basis of matlab, with some guidelines for a better understanding of the language.
 
 2. **GRAFICA**
